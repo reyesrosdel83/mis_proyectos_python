@@ -1,5 +1,5 @@
 print("-" * 70)
-print("Programa de Inventario y Ventas".center(65))
+print("Programa de Inventario y Ventas".center(70))
 print("-" * 70)
 
 # precios y pesos
