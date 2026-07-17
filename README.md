@@ -5,6 +5,7 @@ Mis primeros pasos con Python. Estoy aprendiendo a organizar código y usar Git/
 ## Proyectos
 - 01-lecturas-sensor: práctica de lectura de datos
 - 02-test-basico: pruebas básicas de lógica
+- - 03-calculo-pago-horas: cálculo de pago con validación de entrada
 
 ## Cómo ejecutar
 cd 01-lecturas-sensor
