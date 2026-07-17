@@ -8,8 +8,9 @@ Mis primeros pasos con Python. Estoy aprendiendo a organizar código y usar Git/
 - 03-calculo-pago-horas: cálculo de pago con validación de entrada
 
 ## Cómo ejecutar
-cd 01-lecturas-sensor
-python main.py
+python 01-lecturas-sensor/main.py
+python 02-test-basico/main.py
+python 03-calculo-pago-horas/main.py
 
 ## Qué estoy aprendiendo
 - Organizar proyectos en carpetas
